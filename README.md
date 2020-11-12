@@ -1,5 +1,5 @@
 # Android-Activity-Life-Cycle
  Activity Life Cycle
  
- #Youtube:
+ Youtube:
  youtube video link: https://youtu.be/5qyliSiB8M4
